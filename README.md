@@ -67,13 +67,13 @@ This project aims to build a fraud detection system using supervised machine lea
 
 ---
 
-## 🔍 Model Interpretability
+## Model Interpretability
 
 - **Feature Importance** from Random Forest
 
 ---
 
-## 🧠 Insights from Correlation
+## Insights from Correlation
 
 - Pearson: linear correlation between `amount`, `step`, and `isFraud` is weak to moderate
 - Spearman: shows non-linear relationships, especially with `oldbalanceOrg`, `newbalanceOrg`
@@ -81,7 +81,7 @@ This project aims to build a fraud detection system using supervised machine lea
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python (Pandas, NumPy, Scikit-learn, Imbalanced-learn, SHAP, Matplotlib, Seaborn)
 - Jupyter Notebook
