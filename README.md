@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Fraud Detection Model
+# Fraud Detection Model
 
 This project aims to build a fraud detection system using supervised machine learning, Random Forest. The dataset used consists of financial transaction data containing nominal information, transaction type, and whether the transaction is fraud or not. Dataset used in this model is taken from https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 
